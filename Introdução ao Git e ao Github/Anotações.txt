@@ -1,0 +1,2 @@
+Link dwonload Git: https://git-scm.com/downloads
+Git Bash é um terminal que otimiza os trabalhos no Git
